@@ -1,0 +1,10 @@
+rootProject.name = "ShadowJarSampleproject"
+include(":app")
+//include(":SubmoduleSDK:MirrorFlySDK")
+//include ':okhttplib'
+//include ':app:mylibrary'
+/*include ':SubmoduleSDK:MirrorFlySDK:okhttp'
+include ':SubmoduleSDK:MirrorFlySDK:retrofit'
+include ':SubmoduleSDK:MirrorFlySDK:greendao'
+include ':SubmoduleSDK:MirrorFlySDK:xmpp'
+include ':mirrorflylib'*/
